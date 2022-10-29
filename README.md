@@ -6,7 +6,7 @@
 - 😄 Pronouns: She/Her/Hers
 
 - ⚡ Fun fact: I wrote a book about getting started with yoga. Check it out: [ _Ready For Yoga_ ](http://www.dianashea.com)
-- 
+
 <!--
 **dishea8/dishea8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
